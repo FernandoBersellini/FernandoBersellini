@@ -1,14 +1,15 @@
-<h1>Hello! My name is Fernando Bersellini</h1>
-<h2>Welcome to my GitHub profile!</h2>
+<h1>Olá! O meu nome é Fernando Bersellini</h1>
+<h2>Seja bem-vindo ao meu perfil do GitHub!</h2>
 
-<h2>About me</h2>
-<p>Sou entusiasta na area de desenvolvimento, e apaixonado em criar solucoes e entender como grandes sistemas da atualidade funcionam. Este espaco no GitHub serve para eu compartilhar meus projetos, e mostrar a evolucao do meu aprendizado!</p>
+<h2>Sobre mim</h2>
+<p>Sou um entusiasta na área de desenvolvimento, e apaixonado em criar soluções e entender como grandes sistemas da atualidade funcionam. Este espaço no GitHub serve para eu compartilhar meus projetos, e mostrar a evolução do meu aprendizado!</p>
 <ul>
-  <li>Atualmente estou cursando Tecnico em Informatica na instituicao Senac Londrina!</li>
+  <li>Atualmente estou cursando Técnico em Informática na instituição Senac Londrina!</li>
   <li>Estou estudando sobre o desenvolvimento de sites, do Front-End ao Back-End!</li>
-  <li>Adquiri o conhecimento para criar sites responsivos e intuitivos, seja usando HTML,CSS e Javascript, ou com o Wordpress</li>
+  <li>Adquiri o conhecimento para criar sites responsivos e intuitivos, seja usando HTML, CSS e Javascript, ou com o Wordpress</li>
   <li>Busco sempre aprender novas tecnologias de desenvolvimento de sites.</li>
 </ul>
+
 
 <h2>Tecnologias</h2>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
