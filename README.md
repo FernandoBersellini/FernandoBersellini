@@ -1,43 +1,51 @@
-<h1>Olá! O meu nome é Fernando Bersellini</h1>
-<h2>Seja bem-vindo ao meu perfil do GitHub!</h2>
-
-<h2>Sobre mim</h2>
-<p>Sou um entusiasta na área de desenvolvimento, e apaixonado em criar soluções e entender como grandes sistemas da atualidade funcionam. Este espaço no GitHub serve para eu compartilhar meus projetos, e mostrar a evolução do meu aprendizado!</p>
-<ul>
-  <li>Atualmente estou cursando Técnico em Informática na instituição Senac Londrina!</li>
-  <li>Estou estudando sobre o desenvolvimento de sites, do Front-End ao Back-End!</li>
-  <li>Adquiri o conhecimento para criar sites responsivos e intuitivos, seja usando HTML, CSS e Javascript, ou com o Wordpress</li>
-  <li>Busco sempre aprender novas tecnologias de desenvolvimento de sites.</li>
-</ul>
-
-
-<h2>Tecnologias</h2>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
-
-<h2>Contato</h2>
-LinkedIn: www.linkedin.com/in/fernando-bersellini-619821227<br>
-Email: fernandobersellini@outlook.com.br
-<br><br>
-
-<div>
-<a href="https://github.com/FernandoBersellini">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBersellini&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoBersellini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FernandoBersellini/count.svg?"  />
 </div>
-          
-          
-          
-          
-          
-          
 
-          
+###
 
+<h1 align="center">Olá! Seja bem-vindo! 🤠</h1>
 
+###
+
+<h3 align="left">Sobre mim</h3>
+
+###
+
+<p align="left">Me chamo Fernando Bersellini, e atualmente resido no Brasil<br><br>- Formado em Técnico em informática pela a instituição Senac<br>- Cursando Engenharia de Software na instituição Unifil<br>- Estou aprendendo desenvolvimento de webapps com PHP!</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fernandobersellini/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
