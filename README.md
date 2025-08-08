@@ -1,5 +1,5 @@
 # 🤠 Olá! Seja bem-vindo:
-Me chamo Fernando Bersellini. <br><br>- Sou formado em técnico em informática pela a instituição Senac Londrina<br>- Atualmente curso o meu 1º período de Engenharia de Software no Centro Universitário Filadélfia<br>- Meus objetivos atuais são me aprofundar na linguagem Java utilizando o framework Spring
+Me chamo Fernando Bersellini. <br><br>- Sou formado em técnico em informática pela a instituição Senac Londrina<br>- Atualmente estou cursando o  2º período de Engenharia de Software no Centro Universitário Filadélfia<br>- Meus objetivos atuais são me aprofundar no desenvolvimento Backend, utilizando o framework Spring
 
 
 ## 🌐 Socials:
