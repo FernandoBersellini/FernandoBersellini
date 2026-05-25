@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=420b54&section=header"/>  
+
 # 👋 Olá, eu sou o Fernando!
 
 Desenvolvedor Fullstack apaixonado por construir produtos que resolvem problemas reais — e que funcionam exatamente como o designer planejou no Figma. 🎨
@@ -69,4 +71,6 @@ Tô sempre aberto para trocar ideia sobre tecnologia, projetos novos ou oportuni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandobersellini)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandobersellini@outlook.com.br)
 
-⭐ Se gostou de algum projeto meu, deixa uma estrela — ajuda demais!
+⭐ Se gostou de algum projeto meu, deixa uma estrela — ajuda demais!  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=420b54&section=footer"/>  
+
