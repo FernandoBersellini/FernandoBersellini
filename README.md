@@ -58,10 +58,7 @@ Desenvolvedor Fullstack apaixonado por construir produtos que resolvem problemas
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=FernandoBersellini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=FernandoBersellini&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBersellini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=FernandoBersellini&theme=sakura-x&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ---
 
 ## 📫 Vamos conversar?
